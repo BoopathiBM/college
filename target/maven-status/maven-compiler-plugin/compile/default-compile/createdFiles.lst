@@ -1,0 +1,13 @@
+com\boopathi\student_management_system\model\Staff.class
+com\boopathi\student_management_system\StudentManagementSystemApplication.class
+com\boopathi\student_management_system\controller\StudentController.class
+com\boopathi\student_management_system\model\Student.class
+com\boopathi\student_management_system\repo\StudentRepository.class
+com\boopathi\student_management_system\repo\DepartmentRepository.class
+com\boopathi\student_management_system\service\DepartmentService.class
+com\boopathi\student_management_system\repo\StaffRepository.class
+com\boopathi\student_management_system\controller\StaffController.class
+com\boopathi\student_management_system\service\StaffService.class
+com\boopathi\student_management_system\model\Department.class
+com\boopathi\student_management_system\service\StudentService.class
+com\boopathi\student_management_system\controller\DepartmentController.class
